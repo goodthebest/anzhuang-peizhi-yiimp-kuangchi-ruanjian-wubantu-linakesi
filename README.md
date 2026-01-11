@@ -1,130 +1,128 @@
 <a id="readme"></a>
 
-# Crypto Mining Pool Setup Services
-# Mining Pool Software Expert: 
-## We Can Install Crypto Mining Pool for Any Algorithm or Altcoins.
-### This includes famous Bitcoin, Bitcoin Cash, BitcoinII/BC2, Dogecoin, Litecoin, Digibyte, Zcash and any other crypto altcoins of your choice, you just name it and we shall get it done for you.
+# 加密矿池搭建服务
+# 矿池软件专家：
+## 我们可以为任何算法或山寨币安装加密矿池。
+### 这包括著名的比特币、比特币现金、狗狗币、莱特币、Digibyte 以及您选择的任何其他加密山寨币，只需告诉我们，我们即可为您完成。
 
-Hire a Professional Yiimp Mining Pool Software Expert, Blockchain Developer, and Programmer for Customized Mining Pool Solutions. Free Initial Consultation: Contact Us Today!
-
+雇用专业的 Yiimp 矿池软件专家、区块链开发者和程序员，为您提供定制的矿池解决方案。免费初步咨询：今天就联系我们！
 
 
 <a id="01-contact-information"></a>
-### 📬 Contact Information
+### 📬 联系方式
 
 
-- **Telegram:** [Click Here to Connect on Telegram](https://t.me/goodthebest)
-- **Email:** [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)
+- **Telegram:** [点击这里联系 Telegram](https://t.me/goodthebest)
+- **电子邮件:** [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)
 - **Discord:** `goodthebest`  
-  *To add on Discord:* Open Discord → Friends → Add Friend → Paste `goodthebest` → Send Request
+  *添加 Discord:* 打开 Discord → Friends → Add Friend → 粘贴 `goodthebest` → 发送请求
 
 
 <a id="toc"></a>
 
 <a id="table-of-contents"></a>
-## 📑 Table of Contents
+## 📑 目录
 
-- [ 📬 Contact Information](#01-contact-information)
+- [ 📬 联系方式](#01-contact-information)
 
-- [Install & Set Up a Crypto Mining Pool on Yiimp Open Source Software for Any Cryptocurrency or Algorithm – Ready in Hours](#1-set-up-a-custom-yiimp-mining-pool-for-any-cryptocurrency-or-algorithm-ready-in-hours)
+- [在 Yiimp 开源软件上安装和设置任何加密货币或算法的加密矿池 – 几小时内即可完成](#1-set-up-a-custom-yiimp-mining-pool-for-any-cryptocurrency-or-algorithm-ready-in-hours)
 
-- [Custom Blockchain Development and Yiimp Mining Pool Coding Services As Freelancers and Independent Contractors](#2-custom-blockchain-development-and-yiimp-mining-pool-coding-services-as-freelancers-and-independent-contractors)
+- [定制区块链开发和 Yiimp 矿池编码服务 – 作为自由职业者和独立承包商](#2-custom-blockchain-development-and-yiimp-mining-pool-coding-services-as-freelancers-and-independent-contractors)
 
-- [Advanced Yiimp Features Available:](#21-advanced-features-available)
+- [可用的 Yiimp 高级功能：](#21-advanced-features-available)
 
-- [Professional Yiimp Mining Pool Installation for Altcoins, Algorithms, and Custom Cryptocurrencies](#3-professional-yiimp-mining-pool-installation-for-altcoins-algorithms-and-custom-cryptocurrencies)
-
-
-- [How Our Cyrpto Mining Pool Setup Process Works](#4-how-our-yiimp-mining-pool-setup-process-works)
+- [针对山寨币、算法和自定义加密货币的专业 Yiimp 矿池安装](#3-professional-yiimp-mining-pool-installation-for-altcoins-algorithms-and-custom-cryptocurrencies)
 
 
-- [Supported Algorithms for Yiimp Cryptocurrency Mining Pools](#5-supported-algorithms-for-yiimp-cryptocurrency-mining-pools)
+- [我们的 Yiimp 矿池搭建流程如何运作](#4-how-our-yiimp-mining-pool-setup-process-works)
 
 
-- [Supported Cryptocurrencies for Single or Multi-Algo Yiimp Mining Pools](#6-supported-cryptocurrencies-for-single-or-multi-algo-yiimp-mining-pools)
+- [Yiimp 加密货币矿池支持的算法](#5-supported-algorithms-for-yiimp-cryptocurrency-mining-pools)
+
+
+- [支持的单算法或多算法 Yiimp 矿池的加密货币](#6-supported-cryptocurrencies-for-single-or-multi-algo-yiimp-mining-pools)
 
 
 ---
 
 
-
-[⬆ Back to Top](#toc)
+[⬆ 返回顶部](#toc)
 
 <a id="1-set-up-a-custom-yiimp-mining-pool-for-any-cryptocurrency-or-algorithm-ready-in-hours"></a>
-## 1. Install & Set Up a Custom Yiimp Mining Pool for Any Cryptocurrency or Algorithm – Ready in Hours
-[⬆ Back to Top](#toc)
+## 1. 安装和设置任何加密货币或算法的定制 Yiimp 矿池 – 数小时内即可完成
+[⬆ 返回顶部](#toc)
 
 
-Whether you're looking to mine a single cryptocurrency solo, create a private pool for friends and family, or launch a public mining pool compatible with NiceHash, cloud mining, or MRR (MiningRigRentals), we offer comprehensive solutions tailored to your needs. Our Yiimp mining pool setup services support multiple coins and algorithms, ensuring seamless blockchain integration and high-performance mining operations.
+无论您想单独挖掘一种加密货币、为朋友和家人创建私人矿池，还是启动兼容 NiceHash、云挖矿或 MRR (MiningRigRentals) 的公共矿池，我们都提供全面的解决方案来满足您的需求。我们的 Yiimp 矿池搭建服务支持多币种和多算法，确保无缝的区块链集成和高性能挖矿运营。
 
 <a id="2-custom-blockchain-development-and-yiimp-mining-pool-coding-services-as-freelancers-and-independent-contractors"></a>
-## 2. Custom Blockchain Development and Yiimp Mining Pool Coding Services As Freelancers and Independent Contractors
-[⬆ Back to Top](#toc)
+## 2. 定制区块链开发和 Yiimp 矿池编码服务（自由职业者和独立承包商）
+[⬆ 返回顶部](#toc)
 
 
-We specialize in customized blockchain projects, including Yiimp mining pool modifications, algorithm integrations, and cryptocurrency forking. Compatible with Linux-based Ubuntu operating systems: 16.04, 18.04, 20.04, 22.04,24.04 and 25.01.
+我们专注于定制区块链项目，包括 Yiimp 矿池修改、算法集成和加密货币分叉。兼容基于 Linux 的 Ubuntu 操作系统：16.04、18.04、20.04、22.04、24.04 和 25.01。
 
-Our expert team installs, configures, and launches Yiimp mining pool software to enable mining for multiple crypto tokens and coins. We also handle setups for new coins forked from Bitcoin (SHA-256 PoW), Blackcoin (Scrypt PoS), Litecoin (Scrypt PoW), Dash (X11), and more. We do have a solution for Zcash/zec mining pool using a software other than yiimp.
+我们的专业团队安装、配置并启动 Yiimp 矿池软件，使其支持挖掘多种加密代币和币种。我们还负责设置从比特币（SHA-256 PoW）、Blackcoin（Scrypt PoS）、莱特币（Scrypt PoW）、达世币（X11）等分叉的新币。
 
-Blackcoin's fork when mined on yiimp it might reject blocks, we do have a proper solution to this if your Blackcoin's clone is not accepting new blocks.
+Blackcoin 的分叉在 Yiimp 上挖矿时可能会拒绝区块，如果您的 Blackcoin 克隆不能接受新的区块，我们有适当的解决方案。
 
-For personalized Yiimp multi-coin pool setup, troubleshooting, or quick support, reach out via our contact details.
+如需个性化的 Yiimp 多币池设置、故障排除或快速支持，请通过我们的联系方式联系我们。
 
 <a id="21-advanced-features-available"></a>
-### 2.1. Advanced Yiimp Features Like Yiimp ASICBOOST Implementation for SHA256/SHA256D stratum and MWEB (LTC/scrypt) Available:
-[⬆ Back to Top](#toc)
+### 2.1. 提供 Yiimp 高级功能，例如针对 SHA256/SHA256D Stratum 的 Yiimp ASICBOOST 实现以及用于 MWEB（LTC/scrypt）的功能：
+[⬆ 返回顶部](#toc)
 
-- **ASICBoost-Enabled Mining Stratum:** We do have custom Yiimp Asicboost implemented solution for Bitcoin, for other bitcoin family altcoins and SHA256/SHA256D algo coins, supporting most ASICboost machines, cloud mining NiceHash, or MiningRigRentals.
-- **MWEB-Enabled Merged Mining Pools:** For Litecoin, Dogecoin, Bellscoin, and other Scrypt coins, compatible with ASIC hardware, NiceHash, or MRR.
+- **支持 ASICBoost 的挖矿 Stratum:** 我们提供定制的 Yiimp Asicboost 实现，适用于比特币及其他比特币家族的山寨币和 SHA256/SHA256D 算法币，支持大多数 ASICBoost 矿机、云挖矿 NiceHash 或 MiningRigRentals。
+- **支持 MWEB 的合并挖矿池:** 适用于莱特币、狗狗币、Bellscoin 和其他 Scrypt 代币，兼容 ASIC 硬件、NiceHash 或 MRR。
 
-*Note:* This service is independent and not affiliated with platforms like Upwork, Freelancer.com, LinkedIn, Fiverr, Stack Overflow, Reddit, or similar. Initial consultations and technical discussions for Yiimp projects are free.
+*注意:* 该服务独立运营，与 Upwork、Freelancer.com、LinkedIn、Fiverr、Stack Overflow、Reddit 或类似平台无任何关联。Yiimp 项目的初步咨询和技术讨论免费。
 
 <a id="3-professional-yiimp-mining-pool-installation-for-altcoins-algorithms-and-custom-cryptocurrencies"></a>
-## 3. Professional Yiimp Mining Pool Installation for Altcoins, Algorithms, and Custom Cryptocurrencies
-[⬆ Back to Top](#toc)
+## 3. 针对山寨币、算法和自定义加密货币的专业 Yiimp 矿池安装
+[⬆ 返回顶部](#toc)
 
 
-Launch your own mining pool with our end-to-end Yiimp setup services. Relax while we handle everything from scratch, including:
+通过我们的端到端 Yiimp 搭建服务启动您自己的挖矿池。我们会从零开始为您处理一切，您只需放松，包括：
 
-- Installation of cryptocurrency wallets/daemons for your chosen coins.
-- Server setup, configuration, and administration for Yiimp mining software.
-- Options for solo, private, or public mining pools – ideal for personal use, sharing with friends, or open communities.
-- Customizable pool fees (set to zero or any percentage, adjustable anytime).
-- Compatibility with CPUs, GPUs, ASICs, or external services like NiceHash for rented hashpower.
-- Support for multi-coin and multi-algorithm pools – add more coins/algos as needed (if supported by Yiimp and your server).
-- Ongoing maintenance services available (minimal upkeep required post-setup).
-- Troubleshooting for issues like rejected blocks, payout failures, custom difficulties, vardiff, auto-exchange, daemons, and more.
-- Performance optimization and tweaks for Yiimp and server efficiency.
-- Custom features or modifications at additional cost.
-- Backed by real-world expertise – no reliance on tutorials, online courses, or secondhand knowledge.
+- 为您选择的币种安装加密货币钱包/守护进程。
+- 为 Yiimp 挖矿软件进行服务器设置、配置和管理。
+- 可选择单人挖矿、私人或公共矿池 – 适用于个人使用、与朋友共享或开放社区。
+- 可自定义池费（可设置为零或任何百分比，随时调整）。
+- 兼容 CPU、GPU、ASIC 或 NiceHash 等租赁算力的外部服务。
+- 支持多币种和多算法的池 – 可根据需要添加更多币种/算法（前提是 Yiimp 和您的服务器支持）。
+- 提供持续维护服务（设置完成后仅需最低维护）。
+- 排查拒绝区块、付款失败、自定义难度、vardiff、自助兑换、守护进程等问题。
+- 优化 Yiimp 和服务器性能。
+- 额外费用可定制功能或修改。
+- 以实际经验为后盾 – 不依赖教程、在线课程或二手知识。
 
-**Important:** Yiimp pool software must be installed on an Ubuntu Linux distribution. It is not compatible with Windows, macOS, Android, Raspberry Pi, iOS, or alternative Linux distributions such as CentOS, Fedora, Debian, Arch, or Alpine. However, miners running any of these operating systems can still connect to a Yiimp pool.
+**重要:** Yiimp 池软件必须安装在 Ubuntu Linux 发行版上。它与 Windows、macOS、Android、树莓派、iOS 或其他 Linux 发行版（如 CentOS、Fedora、Debian、Arch 或 Alpine）不兼容。然而，这些操作系统的矿工仍然可以连接到 Yiimp 池。
 
 <a id="4-how-our-yiimp-mining-pool-setup-process-works"></a>
-## 4. How Our Yiimp Mining Pool Setup Process Works
-[⬆ Back to Top](#toc)
+## 4. 我们的 Yiimp 矿池搭建流程如何运作
+[⬆ 返回顶部](#toc)
 
 
-No downloads or technical actions needed on your end. Our experts manage the entire process. You'll need a VPS, cloud instance (e.g., AWS), or dedicated server from providers like Digital Ocean, Vultr, Hetzner Cloud, Linode, or your own hardware. Minimum specs and Ubuntu version depend on your mining requirements.
+您无需下载或执行任何技术操作。我们的专家将管理整个流程。您需要从 Digital Ocean、Vultr、Hetzner Cloud、Linode 等提供商购买 VPS、云实例或专用服务器，也可以使用自己的硬件。最低规格和 Ubuntu 版本取决于您的挖矿需求。
 
-📬 **For a quick consultation or custom quote, contact us directly:**  
-- Telegram: [https://t.me/goodthebest](https://t.me/goodthebest)  
-- Email: [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)  
-- Discord: `goodthebest`
+📬 **如需快速咨询或定制报价，请直接联系我们：**  
+- Telegram: [https://t.me/goodthebest](https://t.me/goodthebest)  
+- 电子邮件: [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)  
+- Discord: `goodthebest`
 
 
-We work remotely via **TeamViewer** or **AnyDesk** for transparency (no direct server access required). Provide credentials if preferred, and we'll set up the pool – you can change passwords afterward.
+为了透明度，我们通过 **TeamViewer** 或 **AnyDesk** 远程工作（无需直接服务器访问）。如愿意，可提供凭据，我们将在设置完成后您可以修改密码。
 
-For a customized quote on Yiimp mining pool setup, blockchain development, or crypto mining services, contact us today for real-time discussions.
+若需要 Yiimp 矿池搭建、区块链开发或加密挖矿服务的个性化报价，请立即联系我们进行实时讨论。
 
 <a id="5-supported-algorithms-for-yiimp-cryptocurrency-mining-pools"></a>
-## 5. Supported Algorithms for Yiimp Cryptocurrency Mining Pools
-[⬆ Back to Top](#toc)
+## 5. Yiimp 加密货币矿池支持的算法
+[⬆ 返回顶部](#toc)
 
 
-Yiimp supports a wide range of algorithms for efficient crypto mining. Here's a comprehensive list:
+Yiimp 支持多种算法以实现高效的加密挖矿。以下是完整列表：
 
-| Algos       | Algos       | Algos       | Algos       | Algos       | Algos       |
+| 算法       | 算法       | 算法       | 算法       | 算法       | 算法       |
 |-------------|-------------|-------------|-------------|-------------|-------------|
 | a5a        | fresh      | lyra2v2    | qubit      | timetravel | x14        |
 | argon2     | bastion    | bitcore    | blake      | blake2s    | blakecoin  |
@@ -152,17 +150,16 @@ Yiimp supports a wide range of algorithms for efficient crypto mining. Here's a 
 | yespowerr24| yespowerr32| yespowerurx| x11gost    | x13bcd     | x16r-v2    |
 | xevan      | Xelishash  |            |            |            |            |
 
-
 <a id="6-supported-cryptocurrencies-for-single-or-multi-algo-yiimp-mining-pools"></a>
-## 6. Supported Cryptocurrencies for Single or Multi-Algo Yiimp Mining Pools
-[⬆ Back to Top](#toc)
+## 6. 支持的单算法或多算法 Yiimp 矿池的加密货币
+[⬆ 返回顶部](#toc)
 
 
 <details>
-<summary>Supported Cryptocurrencies for Single or Multi‑Algo Yiimp Mining Pools — We can configure Yiimp pools for most cryptocurrencies (with some exceptions). Here's an extensive list of supported coins for your mining pool setup:</summary>
+<summary>支持的单算法或多算法 Yiimp 矿池加密货币 — 我们可以为大多数加密货币配置 Yiimp 矿池（有少数例外）。以下是可用于您矿池设置的支持币种的扩展列表：</summary>
 
-| Crypto Mining | Cryptocurrencies | Mining Pools | Altcoin | MiningPool | Alt Currency | Crypto Coins |
-|---------------|------------------|--------------|---------|------------|--------------|--------------|
+| 加密挖矿 | 加密货币 | 挖矿池 | 山寨币 | 矿池 | 替代货币 | 加密币 |
+|---------------|------------------|--------------|---------|------------|--------------|--------------||---------------|------------------|--------------|---------|------------|--------------|--------------|
 | Bitcoin BTC | XRP XRP | Ethereum ETH | Stellar XLM | Tether USDT | Bitcoin Cash BCH | EOS EOS |
 | Litecoin LTC | TRON TRX | Cardano ADA | Monero XMR | IOTA MIOTA | NEM XEM | Binance Coin BNB |
 | Ethereum Classic ETC | NEO NEO | Zcash ZEC | Dogecoin DOGE | Maker MKR | Tezos XTZ | VeChain VET |
